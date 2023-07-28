@@ -1,10 +1,10 @@
-### Project Title: 💡 Guess the Number Game 💡
+## Project Title: 💡 Guess the Number Game 💡
 
-Description:
+### Description:
 
 Welcome to the 🔮 Guess the Number game! This simple C++ code creates a fun guessing game where the computer picks a random number between 1 and 100, and the user tries to guess it.
 
-Features:
+### Features:
 
 🔢 Random Number Generation: The code generates a random number between 1 and 100 that the user needs to guess.
 
@@ -12,7 +12,7 @@ Features:
 
 🔢 Attempts Count: The program keeps track of the number of attempts it takes for the user to guess the correct number.
 
-How to Play:
+### How to Play:
 
 📥 Clone or download the repository to your local machine.
 
